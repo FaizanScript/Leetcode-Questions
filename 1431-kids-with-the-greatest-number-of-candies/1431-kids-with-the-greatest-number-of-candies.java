@@ -3,17 +3,17 @@ class Solution {
 
               List<Boolean> result = new ArrayList<>();
 
+              int maxcandy = candies[0];
+
         for (int i = 0; i < candies.length; i++) {
-            boolean canHaveGreatest = true;
-
-            for (int j = 0; j < candies.length; j++) {
-                if (candies[i] + extraCandies < candies[j]) {
-                    canHaveGreatest = false;
-                    break;
-                }
+            
+            if (candies[i] > maxcandy) {
+                maxcandy = candies[i];
             }
+        }
 
-            result.add(canHaveGreatest);
+        for (int i = 0; i < candies.length; i++) {
+            result.add(candies[i] + extraCandies >= maxcandy);
         }
 
         return result;
