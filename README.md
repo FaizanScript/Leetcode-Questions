@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
