@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
