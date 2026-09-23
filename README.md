@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -119,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
