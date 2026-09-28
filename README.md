@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
