@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1854-maximum-population-year) |
