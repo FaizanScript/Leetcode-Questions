@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
