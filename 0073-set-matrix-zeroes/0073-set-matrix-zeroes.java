@@ -1,7 +1,7 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
         
-    // this is the Brute force solution
+    // Brute force solution
 
     // store the row and col of the element which has zero
     //     boolean[] row = new boolean[matrix.length];
@@ -26,7 +26,7 @@ class Solution {
     //     }
 
 
-        // this is the optimal solution
+        //  optimal solution
 
         // Phase 1 — Remember whether first row/column originally contain zero
         boolean firstRowZero = false;
