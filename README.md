@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
