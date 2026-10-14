@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [1773-count-items-matching-a-rule](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
