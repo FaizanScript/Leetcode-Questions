@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
