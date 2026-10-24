@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
