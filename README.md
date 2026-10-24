@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Counting
