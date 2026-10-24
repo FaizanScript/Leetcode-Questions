@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
