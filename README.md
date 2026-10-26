@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0885-spiral-matrix-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0885-spiral-matrix-iii) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3024-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
