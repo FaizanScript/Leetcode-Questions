@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
