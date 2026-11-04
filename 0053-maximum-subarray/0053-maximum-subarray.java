@@ -1,24 +1,39 @@
 class Solution {
     public int maxSubArray(int[] nums) {
 
-        if (nums.length == 1) {
-            return nums[0];
-        }
+        // brute force solution O(n^2)
 
-        int currentSum = nums[0];
-        int maxSum = nums[0];
+        // int max = Integer.MIN_VALUE;
 
-        for (int i = 1; i < nums.length; i++) {
+        // for (int i = 0; i < nums.length; i++) {
+
+        //     int currentSum = 0;
             
-            currentSum = Math.max(
-                nums[i],
-                currentSum + nums[i]
-            );
+        //     for (int j = i; j < nums.length; j++) {
 
-            maxSum = Math.max(
-                maxSum,
-                currentSum
-            );
+        //         currentSum += nums[j];
+        //         max = Math.max(currentSum, max);
+        //     }
+        // }
+
+        // return max;
+
+        // if (nums.length == 1) {
+        //     return nums[0];
+        // }
+
+        int maxSum = Integer.MIN_VALUE;
+        int currentSum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            
+            currentSum += nums[i];
+
+            maxSum = Math.max(currentSum, maxSum);
+
+            if (currentSum < 0) {
+                currentSum = 0;
+            }
         }
         return maxSum;
         
