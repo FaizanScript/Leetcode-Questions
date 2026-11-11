@@ -1,6 +1,17 @@
 class Solution {
     public void sortColors(int[] nums) {
 
+        // solution using bubble sort algorithm O(n^2)
+        for(int i = 0;i<nums.length;i++){
+            for(int j = 0;j<nums.length-i-1;j++){
+                if(nums[j]>nums[j+1]){
+                    int temp = nums[j];
+                    nums[j] = nums[j+1];
+                    nums[j+1] = temp;
+                }
+            }
+        }
+
         // optimal solution O(2n)
         // int red = 0;
         // int white = 0;
@@ -37,31 +48,31 @@ class Solution {
 
         // optimal solution using Dutch national flag algorithm O(n)
 
-        int low = 0;
-        int mid = 0;
-        int high = nums.length-1;
+        // int low = 0;
+        // int mid = 0;
+        // int high = nums.length-1;
 
-        while (mid <= high) {
-            if (nums[mid] == 0) {
-                swap(nums, low, mid);
-                low++;
-                mid++;
+        // while (mid <= high) {
+        //     if (nums[mid] == 0) {
+        //         swap(nums, low, mid);
+        //         low++;
+        //         mid++;
 
-            } else if (nums[mid] == 1) {
-                mid++;
+        //     } else if (nums[mid] == 1) {
+        //         mid++;
 
-            } else {
-                swap(nums, mid, high);
-                high--;
-            }
+        //     } else {
+        //         swap(nums, mid, high);
+        //         high--;
+        //     }
 
-        }
+        // }
 
     }
 
-    public void swap(int[] arr, int i, int j) {
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
+    // public void swap(int[] arr, int i, int j) {
+    //     int temp = arr[i];
+    //     arr[i] = arr[j];
+    //     arr[j] = temp;
+    // }
 }
