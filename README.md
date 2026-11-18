@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/FaizanScript/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/FaizanScript/Leetcode-Questions/tree/master/0682-baseball-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/FaizanScript/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
