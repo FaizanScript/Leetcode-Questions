@@ -3,16 +3,11 @@ class Solution {
 
         int ans = 0;
 
-        int even = 0;
-        int odd = 1;
-
         for (int i = 0; i < nums.length; i++) {
             if (i % 2 == 0) {
-            ans += nums[even];
-            even += 2;
+                ans += nums[i];
             } else {
-                ans -= nums[odd];
-                odd += 2;
+                ans -= nums[i];
             }
         }
 
